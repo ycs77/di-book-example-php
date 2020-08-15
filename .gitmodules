@@ -1,0 +1,9 @@
+[submodule "HelloDI"]
+	path = HelloDI
+	url = https://github.com/ycs77/di-book-example-php-hello-di
+[submodule "MarysECommerce"]
+	path = MarysECommerce
+	url = https://github.com/ycs77/di-book-example-php-marys-ecommerce
+[submodule "RightECommerce"]
+	path = RightECommerce
+	url = https://github.com/ycs77/di-book-example-php-right-ecommerce
